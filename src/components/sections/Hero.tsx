@@ -3,7 +3,7 @@
 
 export default function Hero() {
     return (
-        <section className="w-full py-24 px-6 pt-32 text-center bg-[#F7F5E6]">
+        <section className="w-full py-24 px-6 pt-32 text-center bg-[#f8f9fa]">
             <div className="flex justify-center mb-8">
                 <img
                     src="/assets/dogaicin-logo.svg"
